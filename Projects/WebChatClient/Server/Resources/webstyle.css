@@ -1,0 +1,51 @@
+.whole{
+  display: flex;
+  margin: auto;
+  width: 50%;
+  max-width: 900px;
+  justify-content: center;
+  background-color: #000000;
+  padding: 20px 20px;
+  border: 2px solid #461b46;
+}
+
+#statusBox{
+  height: 300px;
+  width: 100px;
+  border: 2px solid #461b46;
+  padding: 20px 20px;
+  overflow: scroll;
+  background: #c5c2c2;
+  -webkit-text-fill-color: blue;
+  font-weight: bold;
+}
+
+#chatBox{
+  height: 300px;
+  width: 400px;
+  border: 2px solid #461b46;
+  background: #c5c2c2;
+  padding: 20px 20px;
+  overflow: scroll;
+}
+
+#header{
+  font-size: 25px;
+  font-family: Georgia;
+  -webkit-text-fill-color: #000000;
+}
+
+#boxes{
+  font-size: 20px;
+  -webkit-text-fill-color: black;
+}
+
+#submit{
+  background-color: greenyellow;
+}
+
+#leave{
+  background-color: #e33c55;
+}
+
+
