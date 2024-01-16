@@ -1,3 +1,4 @@
 
-# Welcome to maze solver!
-updates to README coming soon.
+# Maze Solver Algorithm
+_ _ _
+The Maze Solver Algorithm 
