@@ -1,6 +1,5 @@
 
 # Maze Solver Algorithm
-_ _ _
 The Maze Solver Algorithm is a Java based project to solve a user inputted maze as a .txt file.<br>
 The program reads in the .txt file into a 2d array which then transforms into an Node Graph for each char in the file.<br>
 <u>Breadth First Search is utilized to find thee shortest route</u> 
