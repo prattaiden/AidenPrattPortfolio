@@ -6,18 +6,9 @@ The program reads in the .txt file into a 2d array which then transforms into an
 <u>Breadth First Search is utilized to find thee shortest route</u> 
 
 ## Maze File Structure:
-11 20
-XXXXXXXXXXXXXXXXXXXX
-X    X        X    X
-X XX X XXXXXX X XX X
-X X              X X
-X X XX XX  XX XX X X
-X      XG   X      X
-X X XX XXXXXX XX X X
-X X              X X
-X XX X XXXXXX X XX X
-X    X   S    X    X
-XXXXXXXXXXXXXXXXXXXX
+
+<img width="163" alt="Screenshot 2024-01-15 at 7 15 26 PM" src="https://github.com/prattaiden/AidenPrattPortfolio/assets/142821905/6507a3b0-3234-4176-a5bb-8f7dec357e52">
+
 
 <b>G</b> represents the goal
 <b>S</b> representes the start point
