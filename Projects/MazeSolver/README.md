@@ -1,1 +1,2 @@
-Welcome to maze solver
+
+# Welcome to maze solver!
